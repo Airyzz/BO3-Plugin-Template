@@ -5,7 +5,7 @@ namespace MyBO3Plugin
 {
     public class Plugin : APlugin
     {
-        public string TabName => "MY Plugin";
+        public string TabName => "MY PLUGIN";
         public string Name => "Test Plugin";
         public string Author => "Author";
         public string Description => "Template Plugin";
